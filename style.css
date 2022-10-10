@@ -4,7 +4,7 @@
 }
 
 .top-wrapper{
-    padding: 180px 0 100px 0;
+    padding: 150px 0 500px 0;
     background-image: url(dhaff.jpg);
     background-size: cover;
     color: rgba(17, 92, 158, 0.877);
@@ -87,4 +87,15 @@ header{
     color: rgb(24, 24, 24);
     padding: 28px 30px;
 
+}
+
+.skills .card img{
+    height: 200px;
+}
+
+.skills .card{
+    float: left;
+}
+.skills{
+    margin-top: 50px;
 }
